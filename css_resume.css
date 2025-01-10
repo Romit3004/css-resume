@@ -1,0 +1,132 @@
+* {
+    margin : 0 ;
+    padding : 0 ;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+body {
+    margin: 0 auto ;
+    max-width: 1500px ;
+}
+
+.introduction {
+    background-color: rgb(29,78,121);
+    height : 350px ;
+    width : 100% ;
+    color : white ;
+    display : flex ;
+}
+
+.introduction h1 {
+    margin : 5px 0 ;
+    font-size: 60px ;
+}
+
+.introduction h3 {
+    opacity : 0.9 ; 
+    margin-bottom: 10px ;
+    font-size: 30px ;
+}
+
+.introduction p {
+    width : 700px ;
+    margin : 20px 0 ;
+}
+
+.intro {
+    margin : 50px 50px 0 80px ;
+}
+
+.introduction img {
+    height : 250px ;
+    width : 250px ;
+    margin-right : 50px ;
+    margin-top : 60px ;
+    margin-bottom: 20px ;
+    margin-left: 120px ;
+}
+
+.icons {
+    margin-top : 20px ;
+    margin-right : 40px ;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.workexperience {
+    margin-left: 0 ;
+    height: 50px ;
+    width : 400px ;
+    background-color: rgb(29,78,121);
+    color: white ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    margin-bottom: 0 ;
+    margin-top : 10px ;
+    padding-left: 50px ;
+}
+
+hr {
+    margin-right: 170px ;
+}
+
+.workexperience_info {
+    margin : 40px 150px ;
+}
+
+strong {
+    margin-left : 10px ;
+    margin-top: 10px ;
+}
+
+.new_para {
+    margin-left : 137px ;
+}
+
+.education {
+    margin-left: 0 ;
+    height: 50px ;
+    width : 400px ;
+    background-color: rgb(29,78,121);
+    color: white ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    margin-bottom: 0 ;
+    margin-top : 10px ;
+    padding-left: 5px ;
+}
+
+.education_info {
+    margin : 40px 150px ;
+}
+
+.date {
+    margin-left: 75px ;
+}
+
+.education_info_hs {
+    margin : 40px 40px ;
+}
+
+.education_info_hs strong {
+    margin-left : 15px ;
+}
+
+.communication {
+    margin-left: 0 ;
+    height: 50px ;
+    width : 400px ;
+    background-color: rgb(29,78,121);
+    color: white ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    margin-bottom: 0 ;
+    margin-top : 10px ;
+    padding-left: 30px ;
+}
+
+.communication_info {
+    margin : 25px 175px 40px 130px ;
+}
